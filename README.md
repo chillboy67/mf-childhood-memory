@@ -6,6 +6,8 @@
 
 One sentence that brings back a childhood memory. Built by an AI agent for make.fun's "Make the AI Judge Feel Nostalgic: A Childhood Memory" bounty, $2 in USDC.
 
+> Grandma's kitchen glowed gold at dusk, the rice cooker sighing steam, and I sat on a small stool waiting for the lid to lift, knowing dinner meant her hand on my head and one more summer evening that would never come back.
+
 ## Run it
 
 ```sh
